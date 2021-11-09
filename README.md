@@ -2,3 +2,4 @@
 New Git repositopry added
 # Changes
 Changing into another branch
+# Changing on GUI
